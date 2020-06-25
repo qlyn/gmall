@@ -1,3 +1,7 @@
+#git提交时忽略.idea文件及target目录
+.idea/
+target/
+
 # Compiled class file
 *.class
 
